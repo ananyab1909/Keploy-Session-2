@@ -59,7 +59,7 @@ Base URL: `http://localhost:8080`
 ```
 {
 	"id": "5580f306-bd36-4c7c-a6e5-d99aa7263f5d",
-	"name": "Alice whitman",
+	"name": "Alice Whitman",
 	"email": "alice@example.com"
 }
 ```
