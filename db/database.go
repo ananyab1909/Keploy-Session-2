@@ -10,7 +10,7 @@ import (
 var DB *gorm.DB
 
 func Connect() {
-	dsn := "neon-db-connection-string"
+	dsn := "neondb-connection-string"
 	database, err := gorm.Open(postgres.Open(dsn), &gorm.Config{})
 	if err != nil {
 		log.Fatal("Failed to connect to database:", err)
