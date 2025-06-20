@@ -35,8 +35,8 @@ This project is a scalable full-stack user management system designed to perform
 ## Database Initialization
 
   Before starting the application, ensure the PostgreSQL database is properly set up. The following steps must be completed:
-    - A database named go-server must be created.
-    - A table named users will be used to store user records including `id` (UUID or auto-incremented) , `name` (string) and `email` (string).
+  - A database named go-server must be created.
+  -  A table named users will be used to store user records including `id` (UUID or auto-incremented) , `name` (string) and `email` (string).
 
   *Note: If the table does not exist at runtime, it will be automatically created using GORM's AutoMigrate functionality. However, pre-creating the database is recommended for proper setup and access control.*
 
