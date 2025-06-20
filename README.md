@@ -64,10 +64,10 @@ This project is a scalable full-stack user management system designed to perform
     ```
 
 5. Access the application
-  ```
-  Backend API: http://localhost:8080
-  Frontend UI: http://localhost:3000
-  ```
+    ```
+    Backend API: http://localhost:8080
+    Frontend UI: http://localhost:3000
+    ```
 
 ## User Routes
 
