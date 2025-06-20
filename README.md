@@ -44,16 +44,17 @@ This project is a scalable full-stack user management system designed to perform
 
 1. Clone the repository
      ```
-     git clone https://github.com/ananyab1909/custom-api-server.git
+     https://github.com/ananyab1909/Keploy-Session-2.git
      ```
 
 2. Enter into the directory
      ```
-     cd PepSales-Task
+     cd Keploy-Session-2
      ```
 
 3. Start the backend server - Make sure PostgreSQL is running locally or configure your Neon DB connection in db.Connect() function.
     ```
+    cd backend
     go run main.go
     ```
 
